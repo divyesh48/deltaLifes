@@ -135,6 +135,12 @@ header {
                 transition: border 0.3s ease;
                 font-size: var(--font-size-l);
             }
+
+            .active {
+                color: var(--primary-color);
+                font-weight: bold;
+            }
+            
         }
     }
 
